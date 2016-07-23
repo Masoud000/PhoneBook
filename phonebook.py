@@ -12,7 +12,6 @@ def print_header():
     print ("#" * 40).center(80," ")
     print 
 
-
 def assign(name,num):
     global phonebook
     if name.lower() not in phonebook or name.title() not in phonebook:
