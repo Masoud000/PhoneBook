@@ -100,7 +100,7 @@ def html_generator():
     <tr><td>Name</td><td>Number</td></tr>
     %s
     </table>
-    <p>This page was written by Masoud & Saeed</p>
+    <p>This page was written by MS</p>
 </body>
 </html>
 
